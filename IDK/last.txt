@@ -1,0 +1,1 @@
+This is a different text file.  Unfortunately, it is not a .tex file. :(
